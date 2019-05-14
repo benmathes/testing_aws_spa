@@ -2,4 +2,4 @@
 
 ## to sync this folder with the AWS s3 bucket that hosts the SPA:
 
-    $ aws s3 sync site/ s3://clear-startup-equity/WebApplication/1_StaticWebHosting/website --region us-west-1
+    $ aws s3 sync site/ s3://clear-startup-equity/website --region us-west-1
